@@ -1,0 +1,19 @@
+{
+  "name": "sajatzenebot",
+  "version": "1.0.0",
+  "description": "A music bot for my server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Son of Fury#3534",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord.js": "^12.5.3",
+    "distube": "^2.8.15",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.4.0"
+  }
+}
